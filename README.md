@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EmelinaMavie
-- 👀 I’m interested in flutter and python development
-- 🌱 I’m currently learning learning flutter 
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me: mavieeemelina7da@gmail.com
+- 👋 Hi there
+- 👀 Working to be able to call myself a flutter and python developer
+- 🌱 I’m currently learning flutter 
+- 💞️ 
+- 📫 
 
 <!---
 EmelinaMavie/EmelinaMavie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
