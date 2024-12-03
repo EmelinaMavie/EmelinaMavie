@@ -1,7 +1,7 @@
-- 👋 Hi there
-- 👀 Working to be able to call myself a flutter and python developer
-- 🌱 I’m currently learning flutter 
-- 💞️ 
+- 👋 Hi there, my name is Maví
+- 👀 Started a new challenge in December the 3th
+- 🌱 I’m currently learning SQL
+- 💞️ Hopefull for the future ahead 
 - 📫 
 
 <!---
