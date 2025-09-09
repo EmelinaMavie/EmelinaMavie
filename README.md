@@ -1,7 +1,6 @@
-- 👋 Hi there, my name is Maví
-- 👀 Started a new challenge in December the 3th
-- 🌱 I Want to go from Electronic Engineer to Data Analyst
-- 💞️  I plan to study 6 hours a day, 5 days a week
+- 👋 Hi there, I'm Emelina
+- 👀 Started a new challenge (again 👉👈)
+- 🌱 I Want to go from Electronic Engineering to Data Analysis
 - 📫 See you in the future
 
 <!---
